@@ -1,0 +1,151 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(165, 165, 165);
+}
+
+.fondorojo{
+    background-color: rgb(218, 68, 68);
+       
+}
+
+.altura1{
+    height: 6rem;
+}
+
+
+.fondoverde{
+    background-color: rgb(129, 228, 129);
+}
+
+.altura2{
+    height: 7rem;
+}
+
+
+.amarillo{
+    background-color: rgb(244, 222, 95);
+    padding: 2rem;
+    
+}
+
+a:active {
+    color: rgb(245, 18, 154);
+  }
+
+.altura3{
+    height: 20rem;
+}
+
+.azul{
+    background-color: rgb(108, 148, 240);
+    padding: 2rem;
+}
+@page :first {
+    margin-left: 60%;
+    margin-top: 60%;
+  }
+
+.altura4{
+    height: 20rem;
+}
+
+.rojo{
+    background-color: rgb(238, 103, 103);
+    padding: 2rem;
+}
+
+p:first-child {
+  color: rgb(23, 203, 235);
+  font-size: 20px;
+  padding: 1rem;
+}
+
+
+.altura5{
+    height: 20rem;
+}
+
+.lila{
+    background-color: rgb(188, 127, 245);
+    padding: 2rem;
+}
+
+p:first-of-type {
+    color: rgb(222, 238, 42);
+    font-style:oblique;
+  }
+
+.altura6{
+    height: 20rem;
+}
+
+.naranja{
+    background-color: coral;
+}
+
+.altura7{
+    height: 20rem;
+}
+.gris{
+    background-color: rgb(93, 90, 90);
+}
+
+.altura{
+    height: 20rem;
+}
+
+.morado{
+    background-color: rgb(169, 94, 239);
+}
+
+.altura9{
+    height: 20rem;
+}
+
+.beige{
+    background-color: beige;
+}
+
+.altura10{
+    height: 20rem;
+}
+
+.cafe{
+    background-color: rgba(125, 83, 83, 0.916);
+}
+
+.verde{
+    background-color: aquamarine;
+
+}
+
+.rosado{
+    background-color: rgb(236, 91, 168);
+}
+
+.turquesa{
+
+    background-color: rgb(71, 134, 145);
+}
+
+.altura11{
+    height: 20rem;
+}
+
+.altura12{
+    height: 20rem;
+}
+
+.altura13{
+    height: 20rem;
+}
+
+.altura14{
+    height: 20rem;
+}
+
+
+
